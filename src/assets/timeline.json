@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Zoroastrianism",
+    "date": "600 B.C.E",
+    "description": "Zoroastrianism is one of the world's oldest religions. Dating back to 600 B.C.E, this religion was founded by an Iranian prophet named Zarathushtra.",
+    "image": "https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY3NDcyNjEyODc0NjU5NDQw/zoroastrianism-gettyimages-544249475.jpg"
+  },
+  {
+    "title": "Jesus Was Born",
+    "date": "6 B.C.E",
+    "image": "https://images.theconversation.com/files/346421/original/file-20200708-3995-5ulgxa.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+    "description": "Jesus was born around 6-4 B.C.E in Bethlehem."
+  },
+  {
+    "title": "Crucifixion of Jesus",
+    "date": "30 C.E",
+    "description": "Portrayed as a sacrifice, Jesus was cruicifed in Judea by the Romans."
+  },
+  {
+    "title": "Christianity",
+    "date": "100 C.E",
+    "description": "After the death of Christianity was founded by a group of Jewish people after Jesus was resurrected."
+  },
+  {
+    "title": "The Religion of Islam",
+    "date": "620 C.E",
+    "description": "Founded in 620 A.C, Islam is the second most popular world religion.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Emblem_of_Turkey.svg/200px-Emblem_of_Turkey.svg.png"
+  }
+]
